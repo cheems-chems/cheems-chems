@@ -1,3 +1,51 @@
+
+<style>
+  #draggable-panel {
+    width: 300px;
+    height: 180px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #00f7c1;
+    padding: 10px;
+    cursor: grab;
+  }
+
+  #draggable-panel img {
+    width: 100%;
+  }
+</style>
+
+<div id="draggable-panel">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&theme=tokyonight&show_icons=true" />
+</div>
+
+<script>
+  const panel = document.getElementById('draggable-panel');
+  let isDragging = false;
+  let offsetX, offsetY;
+
+  panel.addEventListener('mousedown', (e) => {
+    isDragging = true;
+    offsetX = e.clientX - panel.offsetLeft;
+    offsetY = e.clientY - panel.offsetTop;
+    panel.style.cursor = 'grabbing';
+  });
+
+  document.addEventListener('mousemove', (e) => {
+    if (!isDragging) return;
+    panel.style.left = `${e.clientX - offsetX}px`;
+    panel.style.top = `${e.clientY - offsetY}px`;
+  });
+
+  document.addEventListener('mouseup', () => {
+    isDragging = false;
+    panel.style.cursor = 'grab';
+  });
+</script>
+
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Amor</h1>
 
 <p align="center">
