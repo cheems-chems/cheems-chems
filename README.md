@@ -1,18 +1,18 @@
 <h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 <span align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Arshad;welcome+to+my+Github;Full+Stack+Developer;Node.js_React.js_MongoDB_Express.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Cheems;welcome+to+my+Github;Full+Stack+Developer;Node.js_React.js_MongoDB_Express.js)](https://git.io/typing-svg)
 <span/>
 
 ###
- ✨ Am here, Arshad, <br>
- :zap: Forging bug-free pathways since 2020<br>
- :speech_balloon: Driving MERN projects to success.
+ ✨ I'm Cheems<br>
+ ⚡ Forging bug-free pathways since 2020<br>
+ 💬 Driving MERN projects to success.
 ###
 ## I code with
 <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
-<a href="https://github.com/arshadakl?tab=repositories"> 
+<a href="https://github.com/cheems-chems?tab=repositories"> 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -53,18 +53,18 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
-<a/>
+</a>
 
 ###
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshadakl&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadakl&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cheems-chems&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheems-chems&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 ------
-Credits : [arshadakl](https://github.com/cheems-chems)
+Credits : [cheems-chems](https://github.com/cheems-chems)
 
-Last Edited on: 13/02/2024
+Last Edited on: 17/06/2025
