@@ -1,71 +1,77 @@
-<h1 align="center">Hey there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40"/> I'm Cheems</h1>
+<h1 align="center">Hey devs <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif" width="40"/> I'm Cheems — Backend Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C1&center=true&width=435&lines=Back-End+Engineer;Node.js+%7C+Express.js+%7C+MongoDB;Scalable+APIs+%7C+Cloud-native+apps;Clean+code+%7C+Solid+architecture;Welcome+to+my+terminal!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C1&center=true&width=500&lines=Backend+Developer+%7C+API+Architect;Node.js+%7C+NestJS+%7C+TypeScript+lover;MongoDB,+PostgreSQL,+MySQL,+Redis;Clean+Code+%7C+SOLID+%7C+DDD+%7C+Hexagonal+Architecture;Welcome+to+my+backend+terminal!">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧠 Backend-oriented Full Stack Developer  
-- 🛠️ Specializing in **Node.js**, **Express**, **MongoDB**, **MySQL**, **Docker**
-- 🚀 Clean architecture + scalable REST & Socket.IO APIs
-- 📦 Building robust systems since **2020**
-- 🛡️ Passionate about security, performance, and documentation
+- 🧠 **Backend-oriented Full Stack Developer**
+- ⚙️ **Languages**: TypeScript, JavaScript
+- 📚 **Frameworks**: NestJS, Express, Socket.IO
+- 🗃️ **Databases**: MongoDB, PostgreSQL, MySQL, Firebase, Redis
+- ☁️ **Cloud & Infra**: Docker, Git, CI/CD, Vercel, Railway, Render
+- 🧱 **Architectures**: Hexagonal, Clean, DDD, Microservices
+- 🛡️ Focused on performance, security & maintainability
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack
 
 <img align="right" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" width="200"/>
 
-<div align="left">
-  
-  <!-- Backend Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.IO" />
+**Languages**
+  - ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg =40x40)
+  - ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =40x40)
 
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+**Backend**
+  - ![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =40x40)
+  - ![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg =40x40)
+  - ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg =40x40)
+  - ![Socket.io](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg =40x40)
 
-  <!-- Languages & Extras -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-</div>
+**Databases**
+  - ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg =40x40)
+  - ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg =40x40)
+  - ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg =40x40)
+  - ![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg =40x40)
+  - ![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg =40x40)
+
+**DevOps & Tools**
+  - ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg =40x40)
+  - ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg =40x40)
+  - ![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg =40x40)
+  - Railway, Vercel, Render
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheems-chems&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheems-chems&theme=tokyonight&layout=compact&hide_border=false" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheems-chems&theme=tokyonight&show_icons=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheems-chems&theme=tokyonight&layout=compact" height="150"/>
+</p>
 
 ---
 
-## 🚧 Projects & Architecture
+## 🧱 Projects & Experience
 
-- **Monolithic** → **Microservices**
-- REST APIs → WebSockets → Serverless Functions
-- CI/CD pipelines & Dockerized deployments
+- Monolithic ➜ Modular ➜ Microservices
+- RESTful APIs ➜ WebSockets ➜ Serverless
+- SQL/NoSQL + Redis for caching
+- API-first + TDD + CI/CD pipelines
 
-> 💬 *“Code is poetry. Backend is the rhythm.”* – Cheems
+> 💬 *"Code is poetry. Backend is the rhythm."* – Cheems
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 - 📧 Email: `cheems@backendverse.dev`
 - 🐱 GitHub: [@cheems-chems](https://github.com/cheems-chems)
-- 🧠 Portfolio: _Coming soon..._
+- 🧠 Portfolio: _coming soon..._
 
 ---
 
