@@ -1,65 +1,80 @@
-<h1 align="center">Hey devs <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif" width="40"/> I'm Cheems — Backend Engineer</h1>
+<h1 align="center">Hey there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif" width="40"/> I'm Amor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C1&center=true&width=500&lines=Backend+Developer+%7C+API+Architect;Node.js+%7C+NestJS+%7C+TypeScript+lover;MongoDB,+PostgreSQL,+MySQL,+Redis;Clean+Code+%7C+SOLID+%7C+DDD+%7C+Hexagonal+Architecture;Welcome+to+my+backend+terminal!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C1&center=true&width=435&lines=Backend+Engineer+%7C+Node.js+%26+NestJS;Hexagonal+Architecture+%7C+Clean+Code;PostgreSQL+%7C+Redis+%7C+Docker+%7C+CI%2FCD;Always+debugging+with+coffee+%E2%98%95%EF%B8%8F">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧠 **Backend-oriented Full Stack Developer**
-- ⚙️ **Languages**: TypeScript, JavaScript
-- 📚 **Frameworks**: NestJS, Express, Socket.IO
-- 🗃️ **Databases**: MongoDB, PostgreSQL, MySQL, Firebase, Redis
-- ☁️ **Cloud & Infra**: Docker, Git, CI/CD, Vercel, Railway, Render
-- 🧱 **Architectures**: Hexagonal, Clean, DDD, Microservices
-- 🛡️ Focused on performance, security & maintainability
+- 🧠 Backend-only Developer (Frontend? no, gracias)
+- ⚙️ Specializing in **NestJS**, **Node.js**, **PostgreSQL**, **Redis**, **Docker**
+- 🧱 Fanático de la **arquitectura hexagonal** y el código limpio
+- 📈 Con experiencia construyendo APIs escalables y mantenibles desde **2020**
+- ☁️ Me gusta automatizar todo: CI/CD, testing, documentación
+- 🚫 No hago CSS. Solo back, con amor y excepciones bien lanzadas.
 
 ---
 
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+## 🧰 Tech Stack
 
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/>
+<img align="right" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" width="200"/>
 
-<!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+### 🖥️ Core Backend
 
-<!-- DevOps -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/>
+</div>
 
+### 🛢️ Databases
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+</div>
+
+### ⚙️ DevOps & Tools
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
+</div>
 
 ---
 
-## 🧱 Projects & Experience
+## 📊 GitHub Stats
 
-- Monolithic ➜ Modular ➜ Microservices
-- RESTful APIs ➜ WebSockets ➜ Serverless
-- SQL/NoSQL + Redis for caching
-- API-first + TDD + CI/CD pipelines
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&theme=tokyonight&layout=compact&hide_border=false" height="150" />
+</div>
 
-> 💬 *"Code is poetry. Backend is the rhythm."* – Cheems
+---
+
+## 🗂️ Architecture & Philosophy
+
+- 🧱 Hexagonal Architecture
+- 🧼 Clean Code & SOLID Principles
+- 💡 CQRS when needed, pragmatism always
+- 🧪 Unit & E2E Testing
+- 💬 *“Si no lanza excepciones claras, no es backend serio.”*
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: `cheems@backendverse.dev`
-- 🐱 GitHub: [@cheems-chems](https://github.com/cheems-chems)
-- 🧠 Portfolio: _coming soon..._
+- 📧 Email: `tu-correo@ejemplo.dev`
+- 🐙 GitHub: [@tu-usuario](https://github.com/tu-usuario)
 
 ---
 
-<sub>Last Updated: 17/06/2025</sub>
+<sub>Last Updated: 18/06/2025</sub>
