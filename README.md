@@ -1,7 +1,7 @@
-<h1 align="center">Hey there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif" width="40"/> I'm Amor</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Amor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C1&center=true&width=435&lines=Backend+Engineer+%7C+Node.js+%26+NestJS;Hexagonal+Architecture+%7C+Clean+Code;PostgreSQL+%7C+Redis+%7C+Docker+%7C+CI%2FCD;Always+debugging+with+coffee+%E2%98%95%EF%B8%8F">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7C1&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+Node.js+%26+NestJS;Hexagonal+Architecture+%7C+Clean+Code;PostgreSQL+%7C+Redis+%7C+Docker+%7C+CI%2FCD;Always+debugging+with+coffee+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,15 +11,15 @@
 - 🧠 Backend-only Developer (Frontend? no, gracias)
 - ⚙️ Specializing in **NestJS**, **Node.js**, **PostgreSQL**, **Redis**, **Docker**
 - 🧱 Fanático de la **arquitectura hexagonal** y el código limpio
-- 📈 Con experiencia construyendo APIs escalables y mantenibles desde **2020**
-- ☁️ Me gusta automatizar todo: CI/CD, testing, documentación
-- 🚫 No hago CSS. Solo back, con amor y excepciones bien lanzadas.
+- 📈 Experiencia construyendo APIs escalables y mantenibles desde **2020**
+- ☁️ Automatización: CI/CD, testing, documentación
+- 🚫 CSS-free zone. Solo back, con amor y excepciones bien lanzadas.
 
 ---
 
 ## 🧰 Tech Stack
 
-<img align="right" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" width="200"/>
+<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="200"/>
 
 ### 🖥️ Core Backend
 
